@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Arrivals</name>
+   <tag></tag>
+   <elementGuidId>7c886d39-6922-4789-9d1f-b72568830f0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-353']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-353 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a87c167c-3ff0-4acf-8f04-c0a4f0ecf7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://modern-store.competethemes.com/shop/</value>
+      <webElementGuid>0906fe5b-8df3-4d07-a703-41c1d472901b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Arrivals</value>
+      <webElementGuid>b075f2b6-533f-4dc9-b074-316c92777e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-353&quot;)/a[1]</value>
+      <webElementGuid>050ae3ed-9586-4571-862f-db4ccd0bfaf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Demo Site/iframe_Purchase_iframe</value>
+      <webElementGuid>08c46983-15cc-4dd8-a25c-13d80e094f05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-353']/a</value>
+      <webElementGuid>d5beab7e-48b3-4f69-98b5-683891ced522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New Arrivals')]</value>
+      <webElementGuid>665e44f3-3213-4ba5-aaae-d9ab86e2d8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Denim'])[2]/following::a[1]</value>
+      <webElementGuid>7ab949b1-6839-4a4e-bf00-9b32e24fdec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men'])[2]/following::a[2]</value>
+      <webElementGuid>7da61b54-ff96-44dd-9f4d-b0f1d0b1e971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='open menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>cf12c370-a950-452f-98a1-514b45afa04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW Denim Jackets In-stock Now'])[1]/preceding::a[1]</value>
+      <webElementGuid>ac0a260c-1de7-419f-8064-2468453f3450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Arrivals']/parent::*</value>
+      <webElementGuid>c638cb0c-7523-42a7-b65b-34075b2bf11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://modern-store.competethemes.com/shop/')]</value>
+      <webElementGuid>aab4f9eb-d60c-4017-b91e-e111f0ff7d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>866e9267-2941-450b-b9b6-0655367aa97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://modern-store.competethemes.com/shop/' and (text() = 'New Arrivals' or . = 'New Arrivals')]</value>
+      <webElementGuid>ffe84af9-c949-4326-90a3-ecf7eb8917d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
